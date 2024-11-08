@@ -17,16 +17,16 @@ I'm a web engineer with knowledge of machine learning and blockchain as well and
 
 # Designed by me
 ### 🤗 Japanese to Emotions
-▶️ https://huggingface.co/spaces/koshin2001/Japanese-to-Emotions
+https://huggingface.co/spaces/koshin2001/Japanese-to-Emotions
 
 This AI model that performs natural language processing on Japanese text and outputs the probability distribution of emotions.
 
 ### 3️⃣ WEBIII MOSHI
-▶️ https://webiiimoshi.dbkoshin.com/
+https://webiiimoshi.dbkoshin.com/
 
 This quiz app that tests knowledge of blockchain. Users can earn an SBT upon reaching a certain score.
 
 ### 🏠 Home page
-▶️ https://dbkoshin.com/
+https://dbkoshin.com/
 
 This is my homepage built with Astro. It includes information that I couldn’t fully introduce elsewhere.
